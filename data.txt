@@ -1,0 +1,11 @@
+
+
+Project : Tourism Management System 
+
+Default Username Or Password
+
+    UserSide  --> Username : Jayesh
+                  Password : 123456
+
+    AdminSide --> Username : Jayesh123
+                  Password : 123456
